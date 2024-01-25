@@ -1,0 +1,33 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+p {
+    color: red;
+    text-decoration: underline;
+}
+.date p{
+    color: black;
+    font-weight: bold;
+}
+
+.entry {
+    font-family: 'Times New Roman', Times, serif;
+} 
+
+div {
+    background-color: pink;
+    border: 2px solid purple;
+    border-radius: 10px;
+    width: 70%;
+    margin: auto; /* Centers div in page */
+    text-align: center; /* Centers div's contents */
+}
+
+section {
+    text-align: center;
+}
+
